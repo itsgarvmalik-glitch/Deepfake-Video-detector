@@ -1,9 +1,6 @@
 # Deepfake Video Detection
 
-A deep learning system that classifies videos as **real** or **fake** using a Spatial-Temporal Attention model (ResNeXt-50 + CBAM + BiLSTM). Developed as a B.Tech CSE final-year project at Vellore Institute of Technology, Chennai.
-
-**Authors:** Shaurya Naithani (22BCE1461), Yash Srivastava (22BCE1968), Hardik Dahiya (22BCE1301)
-**Guide:** Dr. S. Geetha, Associate Professor, SCOPE, VIT Chennai
+A deep learning system that classifies videos as **real** or **fake** using a Spatial-Temporal Attention model (ResNeXt-50 + CBAM + BiLSTM).
 
 ---
 
